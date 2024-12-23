@@ -1,0 +1,102 @@
+ ==> SORT1:
+- random5000: 0,058s
+
+- random10000: 0,212s
+
+- random50000: 6,142s
+
+
+
+- reversed5000: 0,085s
+
+- reversed10000: 0,354s
+
+- reversed 7,453s
+
+
+
+- sorted5000: 0,031s
+
+- sorted10000: 0,082s
+
+- sorted50000: 1,022s
+
+
+
+
+===> SORT2:
+
+- random5000: 0,036s
+
+- random10000: 0,054s
+
+- random50000: 1,376s
+
+
+
+- reversed5000: 0,037s
+
+- reversed10000: 0,057s
+
+- reversed50000: 0,996s
+
+
+
+- sorted5000: 0,037s
+
+- sorted10000: 0,065s
+
+- sorted50000: 0,844s
+
+
+
+==> SORT3: 
+
+-random5000: 0,045s
+
+-random10000: 0,129s 
+
+-random50000: 3,878s
+
+
+
+- reversed5000: 0,053s
+
+- reversed10000: 0,145s
+
+- reversed50000: 3,041s
+
+
+
+- sorted5000: 0,056s
+
+- sorted10000: 0,133s
+
+- sorted50000: 4,087s
+
+
+
+
+
+===> MAIS RÁPIDOS:
+- RANDOM - 5: sort2
+
+- RANDOM - 10: sort2
+
+- RANDOM - 50: sort2
+
+
+
+- REVERSED - 5: sort2
+
+- REVERSED - 10: sort2
+
+- REVERSED - 50: sort2
+
+
+
+- SORTED - 5: sort1
+
+- SORTED - 10: sort2
+
+- SORTED - 50: sort2
