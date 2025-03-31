@@ -1,16 +1,6 @@
-# CS50 - PSETS Resolvidos
+# CS50
 
-Este repositório contém as soluções para os exercícios práticos (PSETs) do curso **CS50: Introdução à Ciência da Computação**, oferecido pela **Harvard University**. A CS50 é uma disciplina fundamental para quem quer entender os conceitos de ciência da computação e aprender a programar de maneira eficiente.
-
-## Sobre o CS50
-
-O CS50 é um curso introdutório que abrange uma ampla gama de tópicos na ciência da computação, incluindo:
-
-- Algoritmos
-- Estruturas de dados
-- Programação em C, Python e SQL
-- Segurança
-- Engenharia de software
+CS50 é um curso introdutório de ciência da computação oferecido pela Universidade de Harvard. Ele cobre conceitos fundamentais como algoritmos, estruturas de dados, programação em C, Python e SQL, além de tópicos como segurança e engenharia de software. O curso é projetado para iniciantes e proporciona uma base sólida para quem deseja seguir uma carreira em tecnologia e programação.
 
 ## Sobre este Repositório
 
