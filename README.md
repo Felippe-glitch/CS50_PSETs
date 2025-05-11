@@ -11,5 +11,6 @@ Neste repositório, você encontrará minhas soluções para os **PSETs** resolv
 - **PSET1**: Problemas relacionados ao básico da programação e lógica de algoritmos.
 - **PSET2**: Focando em estruturas de dados e manipulação de strings.
 - **PSET3**: Algoritmos mais complexos e maior interação com o sistema.
+- **PSET4**: Manipulação de arquivos, imagens e dados em nível de bytes, com foco em engenharia reversa e memória.
 
 Para mais informações sobre o curso, você pode acessar a [página oficial do CS50](https://cs50.harvard.edu).
