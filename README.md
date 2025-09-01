@@ -12,5 +12,6 @@ Neste repositório, você encontrará minhas soluções para os **PSETs** resolv
 - **PSET2**: Focando em estruturas de dados e manipulação de strings.
 - **PSET3**: Algoritmos mais complexos e maior interação com o sistema.
 - **PSET4**: Manipulação de arquivos, imagens e dados em nível de bytes, com foco em engenharia reversa e memória.
-
+- **PSET5**: Estrutura de dados e suas aplicações.
+- **PSET6**: Introdução a linguagens de alto nível e exploração da abstração.
 Para mais informações sobre o curso, você pode acessar a [página oficial do CS50](https://cs50.harvard.edu).
