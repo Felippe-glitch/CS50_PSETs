@@ -16,4 +16,4 @@ Neste repositório, você encontrará minhas soluções para os **PSETs** resolv
 - **PSET6**: Introdução a linguagens de alto nível e exploração da abstração.
 
   
-Para mais informações sobre o curso, você pode acessar a [página oficial do CS50](https://cs50.harvard.edu).
+Para mais informações sobre o curso, você pode acessar a [página oficial do CS50][(https://cs50.harvard.edu](https://cs50.harvard.edu/x/)).
