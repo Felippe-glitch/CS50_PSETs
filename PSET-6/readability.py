@@ -13,7 +13,7 @@ def count_sentences(text):
 def coleman_liau_index(text):
     words = count_words(text)
     if words == 0:
-        return "Texto inválido"
+        return "Invalid text"
 
     L = count_letters(text) / words * 100
     S = count_sentences(text) / words * 100
